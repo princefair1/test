@@ -5,8 +5,7 @@ const client1 = new Discord.Client();
 client1.on("ready", () => {
 
 	      var interval = setInterval (function () {
-client1.channels.get('499967504534470676').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
-		  }, 120000);
+client1.channels.get('499967517536550913').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');		  }, 120000);
   
 	      var interval1 = setInterval (function () {
   client1.channels.get('499967504534470676').send('#daily');
@@ -30,7 +29,7 @@ const client2 = new Discord.Client();
 client2.on("ready", () => {
 
 	      var interval = setInterval (function () {
-client2.channels.get('499967504534470676').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
+client2.channels.get('499967517536550913').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
 		  }, 120000);
   
 	      var interval1 = setInterval (function () {
@@ -55,7 +54,7 @@ const client3 = new Discord.Client();
 client3.on("ready", () => {
 
 	      var interval = setInterval (function () {
-client3.channels.get('499967504534470676').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
+client3.channels.get('499967517536550913').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
 		  }, 120000);
   
 	      var interval1 = setInterval (function () {
@@ -80,7 +79,7 @@ const client4 = new Discord.Client();
 client4.on("ready", () => {
 
 	      var interval = setInterval (function () {
-client4.channels.get('499967504534470676').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
+client4.channels.get('499967517536550913').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
 		  }, 120000);
   
 	      var interval1 = setInterval (function () {
@@ -105,7 +104,7 @@ const client5 = new Discord.Client();
 client5.on("ready", () => {
 
 	      var interval = setInterval (function () {
-client5.channels.get('499967504534470676').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
+client5.channels.get('499967517536550913').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
 		  }, 120000);
   
 	      var interval1 = setInterval (function () {
