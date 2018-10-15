@@ -745,7 +745,6 @@ client30.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
 
 client30.login(process.env.STARK_BOT30);
 
-const Discord = require('discord.js');
 const client70 = new Discord.Client();
 
 client70.on("ready", () => {
