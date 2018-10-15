@@ -622,3 +622,160 @@ client25.channels.get('499967504534470676').send('t!rep <@249502196217937921>');
 
 client25.login(process.env.STARK_BOT25);
 
+
+
+
+
+
+//----------------------------------------------
+const Discord = require('discord.js');
+const client70 = new Discord.Client();
+
+client70.on("ready", () => {
+
+	      var interval = setInterval (function () {
+client70.channels.get('499967517536550913').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
+		  }, 120000);
+  
+	      var interval1 = setInterval (function () {
+  client70.channels.get('499967504534470676').send('#daily');
+  client.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
+		  }, 86800000);
+  
+	      var interval2 = setInterval (function () {
+client70.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
+client70.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
+		  }, 61360000);
+});
+
+
+
+client70.login(process.env.MODY_BOT1);
+
+
+
+const client71 = new Discord.Client();
+
+client71.on("ready", () => {
+
+	      var interval = setInterval (function () {
+client71.channels.get('499967517536550913').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
+		  }, 120000);
+  
+	      var interval1 = setInterval (function () {
+  client71.channels.get('499967504534470676').send('#daily');
+  client71.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
+		  }, 86800000);
+  
+	      var interval2 = setInterval (function () {
+client71.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
+client71.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
+		  }, 61360000);
+});
+
+
+
+client71.login(process.env.MODY_BOT2);
+
+
+
+const client72 = new Discord.Client();
+
+client72.on("ready", () => {
+
+	      var interval = setInterval (function () {
+client72.channels.get('499967517536550913').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
+		  }, 120000);
+  
+	      var interval1 = setInterval (function () {
+  client72.channels.get('499967504534470676').send('#daily');
+  client72.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
+		  }, 86800000);
+  
+	      var interval2 = setInterval (function () {
+client72.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
+client72.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
+		  }, 61360000);
+});
+
+
+
+client72.login(process.env.MODY_BOT3);
+
+
+
+const client73 = new Discord.Client();
+
+client73.on("ready", () => {
+
+	      var interval = setInterval (function () {
+client73.channels.get('499967517536550913').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
+		  }, 120000);
+  
+	      var interval1 = setInterval (function () {
+  client73.channels.get('499967504534470676').send('#daily');
+  client73.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
+		  }, 86800000);
+  
+	      var interval2 = setInterval (function () {
+client73.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
+client73.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
+		  }, 61360000);
+});
+
+
+
+client73.login(process.env.MODY_BOT4);
+
+
+
+const client74 = new Discord.Client();
+
+client74.on("ready", () => {
+
+	      var interval = setInterval (function () {
+client74.channels.get('499967517536550913').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
+		  }, 120000);
+  
+	      var interval1 = setInterval (function () {
+  client74.channels.get('499967504534470676').send('#daily');
+  client74.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
+		  }, 86800000);
+  
+	      var interval2 = setInterval (function () {
+client74.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
+client74.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
+		  }, 61360000);
+});
+
+
+
+client74.login(process.env.MODY_BOT5);
+
+
+
+const client75 = new Discord.Client();
+
+client75.on("ready", () => {
+
+	      var interval = setInterval (function () {
+client75.channels.get('499967517536550913').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');
+		  }, 120000);
+  
+	      var interval1 = setInterval (function () {
+  client75.channels.get('499967504534470676').send('#daily');
+  client75.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
+		  }, 86800000);
+  
+	      var interval2 = setInterval (function () {
+client75.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
+client75.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
+		  }, 61360000);
+});
+
+
+
+client75.login(process.env.MODY_BOT6);
+
+
+
