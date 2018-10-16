@@ -755,7 +755,7 @@ client70.channels.get('499967517536550913').send('لا إله الا الله, �
   
 	      var interval1 = setInterval (function () {
   client70.channels.get('499967504534470676').send('#daily');
-  client.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
+  client70.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
 		  }, 150000);
   
 	      var interval2 = setInterval (function () {
