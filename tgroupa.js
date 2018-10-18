@@ -2,7 +2,7 @@ var ServerID = "499939108521639966";// اي دي الروم
 var ChannelID = "499967544912773120";
 
 const Discord = require('discord.js');
-const client1 = new Discord.client1();
+const client1 = new Discord.client();
 
 
 client1.on('warn', console.warn);
@@ -29,6 +29,9 @@ function timerFunc() {
 var timer = setTimeout(timerFunc, 1000);
 client1.on("ready", () => {
 
+	      var interval = setInterval (function () {
+client1.channels.get('502231555163553792').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');		  }, 100000);
+  
 	      var interval1 = setInterval (function () {
   client1.channels.get('499967544912773120').send('#daily');
   client1.channels.get('499967544912773120').send('#rep <@401053902168129556>');  
@@ -43,30 +46,32 @@ client1.channels.get('499967544912773120').send('t!rep <@401053902168129556>');
 client1.login(process.env.BOT_TOKEN); 
 
 
-const client1 = new Discord.client();
+const client2 = new Discord.client();
 
 
 function timerFunc() {
-    client1.on('message', msg => {
-        client1.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7))
+    client2.on('message', msg => {
+        client2.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7))
 
 
     });
 }
   
 var timer = setTimeout(timerFunc, 1000);
-client1.on("ready", () => {
+client2.on("ready", () => {
 
-	     
+	      var interval = setInterval (function () {
+client2.channels.get('502231555163553792').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');		  }, 100000);
+  
 	      var interval1 = setInterval (function () {
-  client1.channels.get('499967544912773120').send('#daily');
-  client1.channels.get('499967544912773120').send('#rep <@401053902168129556>');  
+  client2.channels.get('499967544912773120').send('#daily');
+  client2.channels.get('499967544912773120').send('#rep <@401053902168129556>');  
 		  }, 86000000);
   
 	      var interval2 = setInterval (function () {
-client1.channels.get('499967544912773120').send('t!daily <@401053902168129556>');
-client1.channels.get('499967544912773120').send('t!rep <@401053902168129556>');
+client2.channels.get('499967544912773120').send('t!daily <@401053902168129556>');
+client2.channels.get('499967544912773120').send('t!rep <@401053902168129556>');
 		  }, 61360000);
 });
 
-client1.login(process.env.STARK_BOT70); 
+client2.login(process.env.STARK_BOT70); 
