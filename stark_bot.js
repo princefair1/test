@@ -1,7 +1,6 @@
 var ServerID = "499939108521639966";
 var ChannelID = "499967544912773120";
 
-var timer = setTimeout(timerFunc, 1000);
 
 const Discord = require('discord.js');
 const client1 = new Discord.Client();
@@ -15,7 +14,8 @@ function timerFunc() {
 
     });
 }
-  
+  var timer = setTimeout(timerFunc, 1000);
+
 	      var interval1 = setInterval (function () {
   client1.channels.get('499967504534470676').send('#daily');
   client.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
@@ -45,7 +45,8 @@ client2.on("ready", () => {
     });
 }
   
-  
+  var timer = setTimeout(timerFunc, 1000);
+
 	      var interval1 = setInterval (function () {
   client2.channels.get('499967504534470676').send('#daily');
   client2.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
