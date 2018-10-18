@@ -10,12 +10,12 @@ client1.channels.get('499967517536550913').send('لا إله الا الله, س
 	      var interval1 = setInterval (function () {
   client1.channels.get('499967504534470676').send('#daily');
   client.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client1.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client1.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -35,12 +35,12 @@ client2.channels.get('499967517536550913').send('لا إله الا الله, س
 	      var interval1 = setInterval (function () {
   client2.channels.get('499967504534470676').send('#daily');
   client2.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client2.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client2.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -60,12 +60,12 @@ client3.channels.get('499967517536550913').send('لا إله الا الله, س
 	      var interval1 = setInterval (function () {
   client3.channels.get('499967504534470676').send('#daily');
   client3.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client3.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client3.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -85,12 +85,12 @@ client4.channels.get('499967517536550913').send('لا إله الا الله, س
 	      var interval1 = setInterval (function () {
   client4.channels.get('499967504534470676').send('#daily');
   client4.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client4.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client4.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -110,12 +110,12 @@ client5.channels.get('499967517536550913').send('لا إله الا الله, س
 	      var interval1 = setInterval (function () {
   client5.channels.get('499967504534470676').send('#daily');
   client5.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client5.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client5.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -135,12 +135,12 @@ client6.channels.get('499967517536550913').send('لا إله الا الله, س
 	      var interval1 = setInterval (function () {
   client6.channels.get('499967504534470676').send('#daily');
   client6.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client6.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client6.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -160,12 +160,12 @@ client7.channels.get('499967517536550913').send('لا إله الا الله, س
 	      var interval1 = setInterval (function () {
   client7.channels.get('499967504534470676').send('#daily');
   client7.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client7.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client7.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -185,12 +185,12 @@ client8.channels.get('499967517536550913').send('لا إله الا الله, س
 	      var interval1 = setInterval (function () {
   client8.channels.get('499967504534470676').send('#daily');
   client8.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client8.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client8.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -210,12 +210,12 @@ client9.channels.get('499967517536550913').send('لا إله الا الله, س
 	      var interval1 = setInterval (function () {
   client9.channels.get('499967504534470676').send('#daily');
   client9.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client9.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client9.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -235,12 +235,12 @@ client10.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client10.channels.get('499967504534470676').send('#daily');
   client10.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client10.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client10.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -260,12 +260,12 @@ client11.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client11.channels.get('499967504534470676').send('#daily');
   client11.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client11.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client11.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -285,12 +285,12 @@ client12.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client12.channels.get('499967504534470676').send('#daily');
   client12.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client12.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client12.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -310,12 +310,12 @@ client13.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client13.channels.get('499967504534470676').send('#daily');
   client13.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client13.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client13.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -335,12 +335,12 @@ client14.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client14.channels.get('499967504534470676').send('#daily');
   client14.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client14.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client14.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -360,12 +360,12 @@ client15.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client15.channels.get('499967504534470676').send('#daily');
   client15.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client15.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client15.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -385,12 +385,12 @@ client16.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client16.channels.get('499967504534470676').send('#daily');
   client16.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client16.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client16.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -410,12 +410,12 @@ client17.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client17.channels.get('499967504534470676').send('#daily');
   client17.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client17.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client17.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -435,12 +435,12 @@ client18.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client18.channels.get('499967504534470676').send('#daily');
   client18.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client18.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client18.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -460,12 +460,12 @@ client19.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client19.channels.get('499967504534470676').send('#daily');
   client19.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client19.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client19.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -485,12 +485,12 @@ client20.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client20.channels.get('499967504534470676').send('#daily');
   client20.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client20.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client20.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -510,12 +510,12 @@ client21.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client21.channels.get('499967504534470676').send('#daily');
   client21.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client21.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client21.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -535,12 +535,12 @@ client22.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client22.channels.get('499967504534470676').send('#daily');
   client22.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client22.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client22.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -560,12 +560,12 @@ client23.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client23.channels.get('499967504534470676').send('#daily');
   client23.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client23.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client23.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -585,12 +585,12 @@ client24.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client24.channels.get('499967504534470676').send('#daily');
   client24.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client24.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client24.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -610,12 +610,12 @@ client25.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client25.channels.get('499967504534470676').send('#daily');
   client25.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client25.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client25.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -633,12 +633,12 @@ client26.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client26.channels.get('499967504534470676').send('#daily');
   client26.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client26.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client26.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -658,12 +658,12 @@ client27.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client27.channels.get('499967504534470676').send('#daily');
   client27.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client27.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client27.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -683,12 +683,12 @@ client28.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client28.channels.get('499967504534470676').send('#daily');
   client28.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client28.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client28.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -708,12 +708,12 @@ client29.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client29.channels.get('499967504534470676').send('#daily');
   client29.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client29.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client29.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -733,12 +733,12 @@ client30.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client30.channels.get('499967504534470676').send('#daily');
   client30.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client30.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client30.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -756,12 +756,12 @@ client70.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client70.channels.get('499967504534470676').send('#daily');
   client70.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client70.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client70.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
@@ -783,12 +783,12 @@ client75.channels.get('499967517536550913').send('لا إله الا الله, �
 	      var interval1 = setInterval (function () {
   client75.channels.get('499967504534470676').send('#daily');
   client75.channels.get('499967504534470676').send('#rep <@401053902168129556>');  
-		  }, 87000000);
+		  }, 100000);
   
 	      var interval2 = setInterval (function () {
 client75.channels.get('499967504534470676').send('t!daily <@401053902168129556>');
 client75.channels.get('499967504534470676').send('t!rep <@401053902168129556>');
-		  }, 61360000);
+		  }, 100000);
 });
 
 
