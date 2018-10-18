@@ -1,1 +1,1 @@
-workerStark: node tgroupa.js
+worker: node tgroupa.js
