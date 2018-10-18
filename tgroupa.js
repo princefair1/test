@@ -30,13 +30,13 @@ var timer = setTimeout(timerFunc, 1000);
 client1.on("ready", () => {
 
 	      var interval1 = setInterval (function () {
-  client1.channels.get(ChannelID).send('#daily');
-  client1.channels.get(ChannelID).send('#rep <@401053902168129556>');  
+  client1.guilds.get(ServerID).channels.get(ChannelID).send('#daily');
+  client1.guilds.get(ServerID).channels.get(ChannelID).send('#rep <@401053902168129556>');  
 		  }, 86000000);
   
 	      var interval2 = setInterval (function () {
-client1.channels.get(ChannelID).send('t!daily <@401053902168129556>');
-client1.channels.get(ChannelID).send('t!rep <@401053902168129556>');
+client1.guilds.get(ServerID).channels.get(ChannelID).send('t!daily <@401053902168129556>');
+client1.guilds.get(ServerID).channels.get(ChannelID).send('t!rep <@401053902168129556>');
 		  }, 61360000);
 });
 
@@ -59,13 +59,13 @@ client2.on("ready", () => {
 
 	   
 	      var interval1 = setInterval (function () {
-  client2.channels.get(ChannelID).send('#daily');
-  client2.channels.get(ChannelID).send('#rep <@401053902168129556>');  
+  client2.guilds.get(ServerID).channels.get(ChannelID).send('#daily');
+  client2.guilds.get(ServerID).channels.get(ChannelID).send('#rep <@401053902168129556>');  
 		  }, 86000000);
   
 	      var interval2 = setInterval (function () {
-client2.channels.get(ChannelID).send('t!daily <@401053902168129556>');
-client2.channels.get(ChannelID).send('t!rep <@401053902168129556>');
+client2.guilds.get(ServerID).channels.get(ChannelID).send('t!daily <@401053902168129556>');
+client2.guilds.get(ServerID).channels.get(ChannelID).send('t!rep <@401053902168129556>');
 		  }, 61360000);
 });
 
