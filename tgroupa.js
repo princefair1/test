@@ -1,5 +1,5 @@
 var ServerID = "499939108521639966";// اي دي الروم
-var ChannelID = "499967544912773120";
+var ChannelID = "ChannelID";
 
 const Discord = require('discord.js');
 const client1 = new Discord.client();
@@ -29,15 +29,14 @@ function timerFunc() {
 var timer = setTimeout(timerFunc, 1000);
 client1.on("ready", () => {
 
-	   
 	      var interval1 = setInterval (function () {
-  client1.channels.get('499967544912773120').send('#daily');
-  client1.channels.get('499967544912773120').send('#rep <@401053902168129556>');  
+  client1.channels.get(ChannelID).send('#daily');
+  client1.channels.get(ChannelID).send('#rep <@401053902168129556>');  
 		  }, 86000000);
   
 	      var interval2 = setInterval (function () {
-client1.channels.get('499967544912773120').send('t!daily <@401053902168129556>');
-client1.channels.get('499967544912773120').send('t!rep <@401053902168129556>');
+client1.channels.get(ChannelID).send('t!daily <@401053902168129556>');
+client1.channels.get(ChannelID).send('t!rep <@401053902168129556>');
 		  }, 61360000);
 });
 
@@ -58,17 +57,15 @@ function timerFunc() {
 var timer = setTimeout(timerFunc, 1000);
 client2.on("ready", () => {
 
-	      var interval = setInterval (function () {
-client2.channels.get('502231555163553792').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');		  }, 100000);
-  
+	   
 	      var interval1 = setInterval (function () {
-  client2.channels.get('499967544912773120').send('#daily');
-  client2.channels.get('499967544912773120').send('#rep <@401053902168129556>');  
+  client2.channels.get(ChannelID).send('#daily');
+  client2.channels.get(ChannelID).send('#rep <@401053902168129556>');  
 		  }, 86000000);
   
 	      var interval2 = setInterval (function () {
-client2.channels.get('499967544912773120').send('t!daily <@401053902168129556>');
-client2.channels.get('499967544912773120').send('t!rep <@401053902168129556>');
+client2.channels.get(ChannelID).send('t!daily <@401053902168129556>');
+client2.channels.get(ChannelID).send('t!rep <@401053902168129556>');
 		  }, 61360000);
 });
 
