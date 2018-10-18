@@ -29,9 +29,7 @@ function timerFunc() {
 var timer = setTimeout(timerFunc, 1000);
 client1.on("ready", () => {
 
-	      var interval = setInterval (function () {
-client1.channels.get('502231555163553792').send('لا إله الا الله, سبحان الله, الحمدالله, الله اكبر');		  }, 100000);
-  
+	   
 	      var interval1 = setInterval (function () {
   client1.channels.get('499967544912773120').send('#daily');
   client1.channels.get('499967544912773120').send('#rep <@401053902168129556>');  
