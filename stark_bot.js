@@ -1,5 +1,8 @@
 var ServerID = "499939108521639966";
 var ChannelID = "499967544912773120";
+
+var timer = setTimeout(timerFunc, 1000);
+
 const Discord = require('discord.js');
 const client1 = new Discord.Client();
 
