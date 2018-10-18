@@ -1,1 +1,1 @@
-workerStark: node test.js
+workerStark: node tgroupa.js
