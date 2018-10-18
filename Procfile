@@ -1,2 +1,2 @@
-workerStark: node test.js
+worker: node upest.js
 
